@@ -42,6 +42,9 @@
             //    Price = P.UnitPrice,
             //    StokStatus = P.UnitsInStock > 0 ? "Avilable" : "Out Of Stock"
             //});
+            //foreach(var P in result)
+            //{
+            //    Console.WriteLine($"{P.Name},{P.Price},{P.StokStatus}");
         }
     }
 }
