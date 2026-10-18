@@ -35,6 +35,13 @@
             //{
             //    Console.WriteLine(P);
             //}
+            //Q6
+            //var result = ProductList.Select(P => new
+            //{
+            //    Name = P.ProductName,
+            //    Price = P.UnitPrice,
+            //    StokStatus = P.UnitsInStock > 0 ? "Avilable" : "Out Of Stock"
+            //});
         }
     }
 }
