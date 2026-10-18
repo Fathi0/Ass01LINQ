@@ -29,6 +29,12 @@
             //    Console.WriteLine(P);
 
             //}
+            //Q5
+            //var result = ProductList.Where(P => P.UnitsInStock > 0 && P.Category == "Condiments");
+            //foreach (var P in result)
+            //{
+            //    Console.WriteLine(P);
+            //}
         }
     }
 }
