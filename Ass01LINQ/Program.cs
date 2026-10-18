@@ -45,6 +45,12 @@
             //foreach(var P in result)
             //{
             //    Console.WriteLine($"{P.Name},{P.Price},{P.StokStatus}");
+            //Q7
+            //var result = ProductList.Select((P, I) => $"{I + 1}.{P.ProductName}");
+            //foreach(var item in result)
+            //{
+            //    Console.WriteLine(item);
+            //}
         }
     }
 }
