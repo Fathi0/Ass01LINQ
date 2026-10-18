@@ -65,6 +65,13 @@
             //    Console.WriteLine($"{p.ProductName} - {p.UnitsInStock}");
             //}
             //Q10
+            //Q11
+            //            var result = ProductList
+            //    .Select((p, index) => new
+            //    {
+            //        Position = index + 1,
+            //        ProductName = p.ProductName
+            //    });
         }
     }
 }
