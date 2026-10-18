@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            //Q1
+            //var result = ProductList.Where(P => P.Category == "Seafood");
+            //foreach(var P in result)
+            //{
+            //    Console.WriteLine(P);
+            //}
         }
     }
 }
