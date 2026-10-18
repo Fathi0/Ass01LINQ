@@ -16,6 +16,12 @@
             //{
             //    Console.WriteLine(name);
             //}
+            //Q3
+            //var result = ProductList.OrderBy(P => P.UnitPrice);
+            //foreach(var P in result)
+            //{
+            //    Console.WriteLine(P);
+            //}
         }
     }
 }
