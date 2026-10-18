@@ -22,6 +22,13 @@
             //{
             //    Console.WriteLine(P);
             //}
+            //Q4
+            //var result = ProductList.Where(P => P.UnitPrice >= 10 && P.UnitPrice <= 30);
+            //foreach (var P in result)
+            //{
+            //    Console.WriteLine(P);
+
+            //}
         }
     }
 }
