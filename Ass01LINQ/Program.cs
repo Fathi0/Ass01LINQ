@@ -76,6 +76,31 @@
             //{
             //    Console.WriteLine($"{p.Position}. {p.ProductName}");
             //}
+            //Q12
+            //            string[] Arr =
+            //{
+            //                "aPPLE", "AbAcUs", "bRaNcH",
+            //                "BlUeBeRrY", "ClOvEr", "cHeRry"
+            //            };
+
+            //var result = Arr
+            //    .OrderBy(word => word.Length)
+            //    .ThenBy(word => word, StringComparer.OrdinalIgnoreCase);
+
+            //foreach (var word in result)
+            //{
+            //    Console.WriteLine(word);
+            //}
+            ////Q13
+            //var result = Arr
+            //    .Where(word => word.Length > 1 &&
+            //                   char.ToLowerInvariant(word[1]) == 'i')
+            //    .Reverse();
+
+            //foreach (var word in result)
+            //{
+            //    Console.WriteLine(word);
+            //}
         }
     }
 }
