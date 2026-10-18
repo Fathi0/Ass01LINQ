@@ -51,6 +51,12 @@
             //{
             //    Console.WriteLine(item);
             //}
+            //Q8
+            //var result = ProductList.OrderBy(P=>P.Category).ThenByDescending(P=>P.UnitPrice);
+            //foreach(var item in result)
+            //{
+            //    Console.WriteLine($"{item.Category} - {item.ProductName} - {item.UnitPrice}");
+            //}
         }
     }
 }
