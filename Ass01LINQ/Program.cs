@@ -10,6 +10,12 @@
             //{
             //    Console.WriteLine(P);
             //}
+            //Q2
+            //var result = ProductList.Select(P => P.ProductName);
+            //foreach(var name in result)
+            //{
+            //    Console.WriteLine(name);
+            //}
         }
     }
 }
