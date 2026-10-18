@@ -72,6 +72,10 @@
             //        Position = index + 1,
             //        ProductName = p.ProductName
             //    });
+            //foreach (var p in result)
+            //{
+            //    Console.WriteLine($"{p.Position}. {p.ProductName}");
+            //}
         }
     }
 }
