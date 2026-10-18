@@ -57,6 +57,13 @@
             //{
             //    Console.WriteLine($"{item.Category} - {item.ProductName} - {item.UnitPrice}");
             //}
+            //Q9
+            //var result = ProductList.Where(p => p.Category == "Beverages").OrderByDescending(p => p.UnitsInStock);
+
+            //foreach (var p in result)
+            //{
+            //    Console.WriteLine($"{p.ProductName} - {p.UnitsInStock}");
+            //}
         }
     }
 }
